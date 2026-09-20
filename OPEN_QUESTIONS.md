@@ -59,6 +59,7 @@ Need:
 - military branch, unit, rank, aircraft, decorations
 - marriage record to Annabelle
 - parents
+- orchard/property records at Lake Chelan
 
 ### Annabelle McFadden's maiden name and parents
 A likely connection to Robert Dixon Handy has been found through an obituary naming Annabelle McFadden as his sister.
@@ -72,6 +73,57 @@ Need:
 - 1930 / 1940 census
 - Robert McFadden marriage record
 - obituary of her parents
+- Roosevelt High School yearbook
+
+## P1 — life-dossier expansion
+
+### John Henry Gromer
+- Navy rank, duty stations, ships/units and decorations
+- 1940/1950 census
+- St. Louis city directories
+- Florida city directories
+- property / probate / estate
+- Disney employment context
+
+### Edwin James Hickok
+- official Navy file
+- confirm AD1 identity
+- duty stations / squadrons / ships
+- Vietnam-era service
+- Hickok's Trucking business/DOT history
+- Washington property / probate
+
+### Robert + Annabelle McFadden
+- WWII aviation record
+- Lake Chelan orchard location, acreage and ownership
+- property / probate / estate
+- newspapers and local community records
+
+### Economic/class profile
+For each confirmed ancestor, collect:
+- occupation
+- owned/rented home or farm
+- census property values
+- acreage
+- employees / hired hands / servants
+- tax / probate / estate
+- business ownership
+- liens / foreclosure / bankruptcy
+- local comparison
+
+Do not assign "rich" or "poor" without contextual evidence.
+
+### Legal/criminal profile
+Search court and newspaper records, but require strong identity matching before attaching:
+- arrest
+- charge
+- conviction
+- lawsuit
+- divorce
+- bankruptcy
+- probate dispute
+
+Always distinguish allegation, charge, conviction and disposition.
 
 ## P2 — historic deepening
 

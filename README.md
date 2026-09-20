@@ -9,9 +9,10 @@ This repository exists so the research does not depend on one chat, one family s
 1. Build Masen's biological family tree as far back as reliable evidence allows.
 2. Identify the immigrant generation for each major surname line.
 3. Document notable ancestors and the historical context they lived in.
-4. Preserve family stories while clearly separating them from proven facts.
-5. Track contradictory records instead of silently choosing whichever version looks best.
-6. Eventually produce a readable family history, not merely a list of names.
+4. Build **life dossiers**: occupations, military service, property, businesses, economic/class evidence, legal history, migration, hobbies, photographs and contemporary context.
+5. Preserve family stories while clearly separating them from proven facts.
+6. Track contradictory records instead of silently choosing whichever version looks best.
+7. Eventually produce a readable family history, not merely a list of names.
 
 ## Current major branches
 
@@ -39,6 +40,7 @@ If deeper private records are collected later, they should live outside the publ
 ## Start here
 
 - [Current Tree](TREE.md)
+- [Life Dossiers](LIFE_DOSSIERS.md)
 - [Open Questions](OPEN_QUESTIONS.md)
 - [Research Log](RESEARCH_LOG.md)
 - [Sources](SOURCES.md)
@@ -59,5 +61,12 @@ For every parent-child jump, record:
 - evidence grade
 - conflicts
 - what would prove or disprove the relationship
+
+For every biographical claim, record:
+- which exact person it belongs to
+- source
+- whether it is direct evidence or inference
+- date/place context
+- conflicts
 
 The tree is allowed to contain unknowns. An honest blank is better than a confident mistake.

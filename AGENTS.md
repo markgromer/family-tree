@@ -1,0 +1,64 @@
+# Agent Instructions
+
+This repository is a genealogy evidence project. Accuracy outranks completeness.
+
+## Non-negotiable rules
+
+1. **Never invent a person, date, spouse, parent, occupation, event, or relationship.**
+2. Do not attach someone because the surname and geography look plausible.
+3. Family testimony is valuable evidence, but label it as family-confirmed rather than pretending it is a civil record.
+4. Online trees and compiled genealogies are leads unless their underlying sources are checked.
+5. Keep contradictory records visible.
+6. An unresolved parent is better than a guessed parent.
+7. Do not silently change a name spelling. Record variants.
+8. For living people, keep this public repository minimal and do not add unnecessary private data.
+
+## Before changing the tree
+
+For any new parent-child relationship:
+- identify both people
+- cite the source
+- state what the source actually proves
+- assign an evidence grade
+- note conflicts
+- update the machine-readable relationship data
+- update the relevant branch research file
+- add an entry to RESEARCH_LOG.md
+
+## Evidence grades
+
+- A — primary/direct
+- B — strong secondary
+- C — compiled genealogy
+- D — hypothesis/lead
+- F — disproved/rejected
+
+## Promotion rule
+
+A D-level hypothesis should not appear in the main direct-ancestor chain as fact.
+
+A C-level compiled relationship may appear as a working reconstruction **only if explicitly labeled C**.
+
+## Important known corrections
+
+Do not regress these:
+- Macomber is not Masen's biological maternal surname line.
+- Anne's birth surname is Hickok, not Herrington.
+- The correct great-grandfather is Edwin James Hickok, not Edward James Hickok.
+- George Spear is a social/family grandfather, not Masen's biological ancestor.
+- The Missouri German Gromer story is not yet connected to Masen's direct Gromer line.
+
+## Research style
+
+Prefer:
+1. civil/vital records
+2. census
+3. military records
+4. church records
+5. probate/land/court records
+6. contemporary newspapers
+7. obituaries
+8. cemetery records
+9. compiled genealogies / online trees
+
+When possible, triangulate major relationships from two independent records.

@@ -11,9 +11,68 @@ Masen Gromer
 ### Larry Davison
 - biological maternal grandfather
 - formerly married to Susan "Sue" McFadden
-- parents currently unknown
+- family oral history (20 Sep 2026) identifies his parents as **Edward H. Davison** and **Betty Louise Hipps**
+- keep further living-person biographical details private/minimal in this public repository
 
-**Priority:** identify Larry's full birth information and parents.
+### Edward H. Davison
+Strong period evidence identifies:
+- son of **Walter M. Davison** of Defiance, Ohio
+- husband of **Betty Hipps**
+- attended Defiance High School
+- entered the regular U.S. Navy in **1934**
+- trained at **Norfolk, Virginia**
+- reached **Chief Warrant Officer**
+- WWII service listed at **Midway, Guadalcanal, the Solomons, Iwo Jima, Okinawa and Japan**
+- awards listed include American Defense with Bronze Arrowhead, Asiatic-Pacific with **8 battle stars**, Victory ribbon and Good Conduct Medal
+
+Family oral history adds:
+- Edward survived the sinking/loss of a ship during his Navy career
+
+The specific ship has **not** been identified. Do not attach Edward to a sunk vessel until muster rolls/service records establish the assignment.
+
+### Walter M. Davison
+A period Defiance County veterans book directly identifies Walter as Edward H. Davison's father.
+
+Secondary cemetery/genealogy indexes give a working identity:
+- born **13 May 1897**
+- died **6 Aug 1974**
+- associated with Defiance, Ohio
+
+Need primary records for Walter's parents and full household.
+
+### Julia Rothenberger — probable mother of Edward
+A secondary family-history page identifies **Julia (Rothenberger) Davison** as Walter M. Davison's wife and mother of:
+- Madolyn
+- Robert
+- Edward
+
+This is a strong lead but not yet a primary-record proof of Edward's mother.
+
+## Hipps branch
+
+### Betty Louise Hipps
+Family testimony identifies Betty as Larry Davison's mother.
+
+Genealogical indexes give the working identity:
+- born **1 Oct 1920** in Seattle
+- died **24 Apr 1988**
+- parents indexed as **Jackson Lee Hipps** and **Jeanette Ovidia "Jennie" Johnson**
+
+### Jackson Lee Hipps
+Family oral history gives the fuller name **Jackson Lee Jefferson Hipps**.
+
+Current indexed evidence supports:
+- **Jackson Hipps**
+- born **26 Nov 1879**
+- died **Nov 1970**
+- associated with Seattle, Washington
+
+The middle name **Jefferson** remains family testimony until a record spells it out.
+
+### Jeanette Ovidia "Jennie" Johnson
+Indexed genealogy identifies her as Betty's mother and Jackson's spouse.
+
+**Priority:** identify Jennie's parents and birthplace. Larry also reported **Swedish ancestry**, but the Swedish line is not yet proven and should not be assigned solely because of the surname Johnson.
 
 ## McFadden branch
 
@@ -109,5 +168,9 @@ Keep living-person details minimal in the public repository. Research should foc
 3. Find Annabelle + Robert McFadden marriage record.
 4. Determine Annabelle's maiden surname from marriage/birth records.
 5. Identify Robert McFadden's parents.
-6. Identify Larry Davison's parents.
-7. Once biological parents are established, expand each ancestral surname separately.
+6. Obtain Edward H. Davison's Navy muster/service history and identify the ship-loss story.
+7. Prove Julia Rothenberger as Edward's mother with census/vital records.
+8. Prove Betty Hipps → Jackson Lee Hipps + Jeanette Ovidia Johnson with original records.
+9. Identify Walter M. Davison's parents.
+10. Identify Jeanette Ovidia Johnson's parents and test the reported Swedish ancestry.
+11. Once those bridges are established, expand Davison / Rothenberger / Hipps / Johnson separately.

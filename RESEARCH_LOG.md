@@ -2,6 +2,33 @@
 
 A chronological record of what was learned, corrected, rejected, and promoted.
 
+## 2026-09-20 — Repository completeness / life-dossier pass
+
+The project scope was expanded from lineage-only research to **life dossiers** for confirmed ancestors and useful collateral relatives.
+
+Added research standards for:
+- occupation / employer
+- military career
+- businesses
+- property / land / probate
+- economic/class evidence
+- newspapers
+- clubs / churches / community life
+- migration
+- court/criminal records with strict identity matching
+- photographs / yearbooks / documents
+- hobbies and personality clues
+
+### New sourced biographical details
+- John Henry Gromer's obituary gives a fuller life arc: 20-year Navy career → barber school → Weinrick's Barber and Hair Styling → Disney World security → Disney hairstylist → retired 1990.
+- Delores A. Hickok Spencer's obituary confirms parents James M. Hickok Jr. and Dorothy (Porter) Miller, names brother Edwin J. "Buck" Hickok, and records her work at Coleco, Rotterdam Plastics and Trans World Entertainment.
+- Richard C. Hickok's obituary confirms him as son of James Moran Hickok Sr. and Elizabeth Murphy and records his life as a heavy-equipment operator, hunter/target shooter, motorcyclist, Iroquois Rod and Gun Club member and Empire State Games shooting coach.
+
+### McFadden dentist correction
+A Washington business record identifies **Robert A. McFadden Jr., DDS** in Wenatchee.
+
+This should **not** be used to call Masen's great-grandfather Robert McFadden a dentist. The dental record is a lead for Robert Jr., Annabelle and Robert's son.
+
 ## 2026-09 — Initial reconstruction
 
 ### Corrections from family testimony
@@ -74,3 +101,4 @@ The next unresolved bridge is **William Gromer → his parents**.
 - Searching for "Edward James Hickok" after family correction to **Edwin James Hickok**
 - Attaching Masen to Missouri Gromer families solely because John was born in St. Louis
 - Treating every person named Gromer / Hickok in the same state as related without a documented bridge
+- Treating the Wenatchee dentist record for Robert A. McFadden Jr., DDS as evidence that Robert McFadden Sr. was a dentist

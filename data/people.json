@@ -36,7 +36,7 @@
   {
     "id": "larry-davison",
     "name": "Larry Davison",
-    "living": null,
+    "living": true,
     "confidence": "family"
   },
   {
@@ -252,5 +252,64 @@
       "DDS lead"
     ],
     "confidence": "D"
+  },
+  {
+    "id": "edward-h-davison",
+    "name": "Edward H. Davison",
+    "living": false,
+    "occupations": [
+      "U.S. Navy - Chief Warrant Officer"
+    ],
+    "notes": [
+      "Period Defiance County WWII book names father Walter M. Davison and wife Betty Hipps",
+      "Entered regular Navy in 1934; served Midway, Guadalcanal, Solomons, Iwo Jima, Okinawa and Japan",
+      "Family oral history says he survived a ship sinking; ship unresolved"
+    ],
+    "confidence": "B"
+  },
+  {
+    "id": "betty-louise-hipps",
+    "name": "Betty Louise Hipps",
+    "birth": "1920-10-01",
+    "death": "1988-04-24",
+    "birthplace": "Seattle, Washington",
+    "confidence": "C"
+  },
+  {
+    "id": "walter-m-davison",
+    "name": "Walter M. Davison",
+    "birth": "1897-05-13",
+    "death": "1974-08-06",
+    "place": "Defiance, Ohio",
+    "confidence": "B"
+  },
+  {
+    "id": "julia-rothenberger",
+    "name": "Julia Rothenberger",
+    "living": false,
+    "notes": [
+      "Probable mother of Edward H. Davison; currently supported by secondary family-history source"
+    ],
+    "confidence": "C"
+  },
+  {
+    "id": "jackson-lee-hipps",
+    "name": "Jackson Lee Hipps",
+    "birth": "1879-11-26",
+    "death": "1970-11",
+    "place": "Seattle, Washington",
+    "notes": [
+      "Family oral history gives fuller name Jackson Lee Jefferson Hipps; Jefferson not yet record-proven"
+    ],
+    "confidence": "C"
+  },
+  {
+    "id": "jeanette-ovidia-johnson",
+    "name": "Jeanette Ovidia \"Jennie\" Johnson",
+    "living": false,
+    "notes": [
+      "Working identification as Betty Louise Hipps's mother; Swedish ancestry reported somewhere in family but unresolved"
+    ],
+    "confidence": "C"
   }
 ]

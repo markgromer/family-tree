@@ -2,6 +2,64 @@
 
 This file records sources already used or identified. URLs are retained so future researchers can re-check claims.
 
+## Davison / Hipps
+
+### Defiance County, Ohio WWII service book — Edward H. Davison
+World War II Veterans / digitized county service book  
+https://worldwartwoveterans.org/wp-content/uploads/2021/11/Defiance-County-Ohio-PDF-Book-WM.pdf
+
+Strong period secondary source. Supports:
+- Chief Warrant Officer Edward H. Davison
+- 1003 Holgate, Defiance
+- father Walter M. Davison
+- wife Betty Hipps
+- entered regular Navy in 1934
+- Norfolk training
+- service at Guadalcanal, Midway, Solomons, Iwo Jima, Okinawa and Japan
+- listed campaign/decorations including Asiatic-Pacific with 8 battle stars
+
+### Julia (Rothenberger) Davison family-history page
+AncientFaces  
+https://www.ancientfaces.com/person/julia-rothenberger-davison/192752055
+
+**Secondary / user-contributed lead only.**
+
+Supports as a working hypothesis:
+- Julia Rothenberger married Walter M. Davison
+- children listed as Madolyn, Robert and Edward
+
+Must be replaced/confirmed with census, marriage, birth or death records.
+
+### Jackson Hipps indexed lifespan
+AncientFaces / SSDI-derived family-history listing  
+https://www.ancientfaces.com/surname/hipps-family-history/5354
+
+Secondary support:
+- Jackson Hipps
+- born 26 Nov 1879
+- died Nov 1970
+- Seattle association
+
+Does **not** by itself prove the full name Jackson Lee Jefferson Hipps.
+
+### Betty Louise Hipps genealogy index
+Ancestry genealogy search  
+https://www.ancestry.com/genealogy/records/results?firstName=betty&lastName=hipps
+
+Compiled/indexed lead:
+- Betty Louise Hipps
+- Seattle birth
+- father Jackson Lee Hipps
+- mother Jeanette Ovidia Johnson
+
+Use to target original birth, marriage and census records; do not treat the compiled tree alone as final proof.
+
+### USS Barnes context
+Naval History and Heritage Command  
+https://www.history.navy.mil/our-collections/photography/numerical-list-of-images/nhhc-series/nh-series/NH-97000/NH-97124.html
+
+Context only. Current period evidence for Edward does **not** establish service aboard USS Barnes. Do not attach Barnes to Edward without a muster/service record.
+
 ## McFadden / Handy
 
 ### Annabelle McFadden obituary

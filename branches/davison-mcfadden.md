@@ -38,6 +38,7 @@ Need:
 - parents
 - exact military branch/unit/rank
 - aircraft / theater records if available
+- Lake Chelan orchard property history
 
 ### Annabelle
 Known:
@@ -45,9 +46,21 @@ Known:
 - died 20 Apr 2025 in Wenatchee
 - lived to age 100
 - attended Roosevelt High School
+- married high-school sweetheart Robert McFadden
 - children included Marilyn, Sue, Robert Jr.
+- family and faith were central themes in her obituary
+- moved to Lake Chelan in 1974 and became an orchardist with Robert
 
 Her maiden surname is not yet proven.
+
+## Robert Jr. dentist clarification
+
+A Washington business record identifies:
+**Robert A. McFadden Jr., DDS, PS**, incorporated in Wenatchee in 2001.
+
+This is a strong lead for Annabelle and Robert's son **Robert Jr.**
+
+It is **not** evidence that Robert McFadden Sr. was a dentist.
 
 ## Handy hypothesis
 
@@ -66,6 +79,28 @@ Therefore:
 **Do not attach Gerald/Gail Handy as Annabelle's father yet.**
 
 Evidence level: **D/C boundary — promising but unresolved.**
+
+## Life-dossier targets
+
+### Robert
+- WWII aviation service
+- occupation before/after war
+- Lake Chelan orchard acreage / deeds
+- property and probate
+- newspapers
+- clubs/church/community
+
+### Annabelle
+- Roosevelt High School yearbook
+- 1930/1940 census
+- marriage announcement
+- church/community
+- property/orchard
+- newspapers
+- family photographs / oral history
+
+### Larry / Sue
+Keep living-person details minimal in the public repository. Research should focus on ancestry rather than publishing private biography.
 
 ## Next actions
 

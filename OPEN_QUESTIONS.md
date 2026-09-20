@@ -45,12 +45,38 @@ The surname may appear as:
 
 Do not normalize spelling before records establish which form this family used.
 
-### Larry Davison's parents
+### Edward H. Davison / Betty Louise Hipps ancestry
+Family oral history now identifies Larry Davison's parents as **Edward H. Davison** and **Betty Louise Hipps**.
+
+Edward is strongly matched to a Defiance County WWII entry naming:
+- father Walter M. Davison
+- wife Betty Hipps
+- regular Navy entry in 1934
+- Chief Warrant Officer
+- Midway / Guadalcanal / Solomons / Iwo Jima / Okinawa / Japan service
+- Asiatic-Pacific ribbon with 8 battle stars
+
 Need:
-- approximate birth year
-- birthplace
-- marriage record to Sue McFadden
-- census / obituary chain
+- Edward's full birth/death records
+- complete Navy service file and muster rolls from 1934 onward
+- identify the ship family oral history says sank while Edward was aboard
+- prove Edward's mother; Julia Rothenberger is a strong secondary lead
+- Walter M. Davison census/birth/death/parentage
+- Edward + Betty marriage record
+- original record proving Betty's parents
+
+### Hipps / Johnson / Swedish ancestry
+Working indexed line:
+Betty Louise Hipps → Jackson Lee Hipps + Jeanette Ovidia "Jennie" Johnson.
+
+Family oral history gives Jackson's fuller name as **Jackson Lee Jefferson Hipps**.
+
+Need:
+- birth/death/marriage records for Jackson and Jennie
+- record explicitly establishing Jackson's full middle name
+- Jackson's parents
+- Jennie's parents
+- determine which ancestor was Swedish; do **not** infer ethnicity from the surname Johnson alone
 
 ### Robert McFadden's full identity and parents
 Need:

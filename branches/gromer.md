@@ -20,10 +20,17 @@ Masen Gromer
 
 ### Life
 His obituary reports:
-- approximately 20 years in the U.S. Navy
-- barber school after Navy retirement
-- worked as a barber
+- 20 years in the U.S. Navy
+- barber school in Orlando after Navy retirement
+- worked at Weinrick's Barber and Hair Styling
 - worked at Walt Disney World in security and later as a hairstylist
+- retired in 1990
+- married Norma for 47 years
+
+His obituary also names eleven siblings:
+Sheila, Evelyn, Christy, Gwen, Cindie, Linda, Sheree, Keran, Arnold, Ronald and Rick.
+
+That sibling set is valuable for reconstructing William and Dorothy's household.
 
 ### Parents
 Obituary identifies:
@@ -60,6 +67,27 @@ The account includes:
 - a Civil War story involving brothers on opposing sides, including a Groomer spelling variant
 
 This is historically interesting but currently **D — lead only** for Masen.
+
+## Life-dossier targets
+
+For John Henry:
+- Navy rank, ships/units, duty stations, decorations
+- 1940 / 1950 census
+- St. Louis city directories
+- Florida city directories
+- marriage record to Norma
+- property / probate / estate
+- Disney employment context
+
+For William + Dorothy:
+- occupations
+- address history
+- home ownership
+- census property/class clues
+- church/community
+- probate/estate
+- newspapers
+- all children / household reconstruction
 
 ## Target records
 

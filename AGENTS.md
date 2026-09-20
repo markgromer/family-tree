@@ -12,6 +12,8 @@ This repository is a genealogy evidence project. Accuracy outranks completeness.
 6. An unresolved parent is better than a guessed parent.
 7. Do not silently change a name spelling. Record variants.
 8. For living people, keep this public repository minimal and do not add unnecessary private data.
+9. Do not attach criminal/legal history from a same-name record without unusually strong identity matching.
+10. Do not label an ancestor rich/poor from one clue; preserve economic evidence and historical context.
 
 ## Before changing the tree
 
@@ -24,6 +26,16 @@ For any new parent-child relationship:
 - update the machine-readable relationship data
 - update the relevant branch research file
 - add an entry to RESEARCH_LOG.md
+
+## Before adding a life-dossier claim
+
+For occupations, military, business, property, legal history, wealth/class, hobbies or other biography:
+- identify the exact person
+- cite the source
+- record date/place context
+- state whether the claim is direct or inferred
+- note identity conflicts
+- update LIFE_DOSSIERS.md or the relevant branch file
 
 ## Evidence grades
 
@@ -47,6 +59,7 @@ Do not regress these:
 - The correct great-grandfather is Edwin James Hickok, not Edward James Hickok.
 - George Spear is a social/family grandfather, not Masen's biological ancestor.
 - The Missouri German Gromer story is not yet connected to Masen's direct Gromer line.
+- Robert A. McFadden Jr., DDS is a lead for Robert Jr.; do not use it to claim Robert McFadden Sr. was a dentist.
 
 ## Research style
 
@@ -62,3 +75,5 @@ Prefer:
 9. compiled genealogies / online trees
 
 When possible, triangulate major relationships from two independent records.
+
+The end goal is not only a pedigree. It is a defensible answer to **who these people actually were**.

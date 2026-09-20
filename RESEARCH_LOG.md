@@ -2,6 +2,41 @@
 
 A chronological record of what was learned, corrected, rejected, and promoted.
 
+## 2026-09-20 — Davison / Hipps breakthrough
+
+Live family interview with Larry Davison supplied major ancestry anchors:
+- mother: **Betty Louise Hipps**
+- father: **Edward Davison**, corrected from an initial uncertain "Dave"
+- Edward served in the U.S. Navy
+- family story says Edward survived a ship sinking/loss
+- Larry reported Swedish ancestry somewhere in the line
+- family supplied the name **Jackson Lee Jefferson Hipps**
+
+Independent research then found a period Defiance County WWII service-book entry for **Chief Warrant Officer Edward H. Davison** that names:
+- father **Walter M. Davison**, Defiance, Ohio
+- wife **Betty Hipps**
+- regular Navy entry in **1934**
+- training at Norfolk, Virginia
+- service at **Guadalcanal, Midway, the Solomons, Iwo Jima, Okinawa and Japan**
+- American Defense ribbon with Bronze Arrowhead
+- Asiatic-Pacific ribbon with **8 battle stars**
+- Victory and Good Conduct awards
+
+This is a high-value identity match because the period source independently joins Edward + Betty and names Edward's father.
+
+Secondary genealogy sources identify:
+- Walter M. Davison (working dates 1897–1974)
+- **Julia (Rothenberger) Davison** as Walter's wife and mother of Madolyn, Robert and Edward
+- Betty Louise Hipps as daughter of **Jackson Lee Hipps** and **Jeanette Ovidia "Jennie" Johnson**
+- a Seattle Jackson Hipps born 26 Nov 1879 and dying Nov 1970
+
+Evidence controls:
+- Julia Rothenberger as Edward's mother remains secondary until census/vital records are obtained.
+- "Jefferson" in Jackson Lee Jefferson Hipps is family testimony until a record spells it out.
+- reported Swedish ancestry remains unresolved.
+- the ship-sinking story remains unresolved; no ship should be assigned to Edward without muster/service evidence.
+- a different Ohio Edward Davison killed aboard USS Intrepid in 1944 had wife Marie Maxine and is explicitly **not** this Edward.
+
 ## 2026-09-20 — Repository completeness / life-dossier pass
 
 The project scope was expanded from lineage-only research to **life dossiers** for confirmed ancestors and useful collateral relatives.

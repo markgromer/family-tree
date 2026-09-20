@@ -21,7 +21,7 @@ Masen Gromer
 
 ## Strong recent-generation evidence
 
-### Edwin James Hickok Sr.
+### Edwin James "Buck" Hickok Sr.
 Known from family:
 - exact identity
 - born 13 May 1937
@@ -30,6 +30,7 @@ Known from family:
 - lived in Washington
 
 Research:
+- sister Delores A. Spencer's obituary names him Edwin J. "Buck" Hickok and identifies their parents as James M. Hickok Jr. + Dorothy Porter
 - family/memorial material places him in military training at Sampson in 1954–55
 - veterans memorial material lists Navy service 1954–1976
 - a Fleet Reserve memorial appears to identify him as AD1, USN
@@ -41,6 +42,22 @@ A key obituary for Edwin's sister **Delores A. Hickok Spencer** names:
 - brother Edwin J. "Buck" Hickok
 
 This is one of the strongest discovered bridges in the branch.
+
+### James Moran Hickok Sr. household
+Richard C. Hickok's obituary identifies him as son of:
+- James Moran Hickok Sr.
+- Elizabeth Murphy Hickok
+
+FamilySearch also groups James Moran Hickok Jr., Anne Elizabeth Hickok and Richard Cornelius Hickok as siblings in this household.
+
+Richard's life dossier adds:
+- heavy-equipment operator for Schultz Construction
+- hunting, target shooting, hiking, canoeing
+- motorcycle riding/racing
+- lifetime Iroquois Rod and Gun Club membership
+- Empire State Games shooting coach
+
+This is collateral evidence, not a direct-ancestor biography, but it strengthens household reconstruction.
 
 ## Working historic reconstruction
 
@@ -79,6 +96,28 @@ If those chains are correct:
 
 ### Confidence
 **C — strong compiled-genealogy conclusion, not yet a fully source-proven chain.**
+
+## Life-dossier targets
+
+### Edwin
+- official Navy file
+- rank / confirm AD1
+- duty stations, ships/squadrons, deployments, decorations
+- Vietnam-era service
+- Hickok's Trucking registration / operating history
+- Washington property/probate
+
+### Earlier direct Hickoks
+For each confirmed ancestor:
+- occupation
+- census household
+- land and probate
+- military service
+- newspapers
+- church/community
+- migration
+- economic/class context
+- court records where identity is strong
 
 ## Next actions
 

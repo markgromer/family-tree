@@ -11,6 +11,7 @@ https://www.legacy.com/us/obituaries/wenatcheeworld/name/annabelle-mcfadden-obit
 Supports:
 - Annabelle's dates
 - Seattle birth
+- Roosevelt High School
 - Robert McFadden marriage
 - children Marilyn, Sue, Robert Jr.
 - Sue + George Spear
@@ -26,7 +27,45 @@ Supports:
 - WWII Navy service of Robert Dixon Handy
 - Roosevelt High School background
 
+### Robert A. McFadden Jr., DDS professional corporation
+Washington company directory  
+https://www.washingtoncompanysearch.com/companies/robert-a-mcfadden-jr-dds-ps/
+
+Supports:
+- a Robert A. McFadden Jr., DDS professional corporation in Wenatchee
+- **lead for Robert Jr., not evidence that Robert Sr. was the dentist**
+
 ## Hickok
+
+### Delores A. Spencer obituary
+New Comer Albany  
+https://www.newcomeralbany.com/obituaries/delores-spencer
+
+Supports:
+- Delores born 18 Apr 1939 in Rotterdam, NY
+- parents James M. Hickok Jr. and Dorothy (Porter) Miller
+- names brother Edwin J. "Buck" Hickok
+- Delores's employers / life details
+
+This is one of the strongest secondary sources for Edwin's parentage.
+
+### Richard C. Hickok obituary
+New Comer Albany  
+https://www.newcomeralbany.com/obituaries/richard-c-hickok
+
+Supports:
+- Richard born 28 Nov 1933 in Rotterdam
+- parents James Moran Hickok Sr. and Elizabeth Murphy Hickok
+- occupation: heavy-equipment operator
+- hobbies / Iroquois Rod and Gun Club / Empire State Games shooting coach
+- spouse Roberta Cernik
+
+### FamilySearch — Richard Cornelius Hickok
+https://ancestors.familysearch.org/en/LY1Y-9VL/richard-%22dick%22-cornelius-hickok-1933-2015
+
+Compiled support:
+- James Moran Hickok Sr. + Elizabeth Murphy household
+- siblings James Moran Hickok Jr., Anne Elizabeth Hickok, Richard Cornelius Hickok
 
 ### FamilySearch — Hickok family genealogy catalog
 https://www.familysearch.org/library/books/records/item/477433-the-hickok-genealogy-descendants-of-william-hickoks-of-farmington-connecticut-with-ancestry-of-charles-nelson-hickok
@@ -107,11 +146,14 @@ https://www.legacy.com/us/obituaries/orlandosentinel/name/john-gromer-obituary?i
 Supports:
 - John Henry Gromer dates
 - St. Louis birth
-- wife Norma
+- wife Norma, married 47 years
 - six sons including Mark
+- 11 named siblings
 - parents William and Dorothy Gromer
-- Navy career
-- barber and Walt Disney World work
+- 20-year Navy career
+- barber school / Weinrick's Barber and Hair Styling
+- Walt Disney World security / hairstylist work
+- retirement in 1990
 
 ### Missouri county history / Gromer family account
 https://mogenweb.org/dekalb/misc_fairport_centennial_1969.pdf
@@ -134,3 +176,5 @@ For every important claim:
 3. Note contradictions.
 4. Never use a source for a claim it does not actually make.
 5. When a source is derivative or compiled, label it as such.
+6. For criminal/legal claims, require strong identity matching and record the outcome/disposition.
+7. For wealth/class claims, preserve the raw evidence before adding interpretation.

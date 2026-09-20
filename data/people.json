@@ -1,31 +1,256 @@
 [
-  {"id":"masen-gromer","name":"Masen Gromer","living":true,"role":"research subject","confidence":"family"},
-  {"id":"mark-gromer-jr","name":"Mark Gromer Jr.","living":true,"confidence":"family"},
-  {"id":"kirsten-davison","name":"Kirsten Davison","living":true,"confidence":"family"},
-  {"id":"mark-gromer-sr","name":"Mark Gromer Sr.","living":true,"confidence":"family"},
-  {"id":"anne-hickok","name":"Anne Hickok","living":true,"notes":["Herrington is a married surname, not birth surname"],"confidence":"family"},
-  {"id":"larry-davison","name":"Larry Davison","living":null,"confidence":"family"},
-  {"id":"susan-mcfadden","name":"Susan \"Sue\" McFadden","living":true,"confidence":"family"},
-  {"id":"john-henry-gromer","name":"John Henry Gromer","birth":"1938-03-30","death":"2005-08-23","birthplace":"St. Louis, Missouri","confidence":"B"},
-  {"id":"norma-gromer","name":"Norma Gromer","living":null,"confidence":"family"},
-  {"id":"edwin-james-hickok","name":"Edwin James Hickok Sr.","birth":"1937-05-13","death":"2019","confidence":"B"},
-  {"id":"linda-shoenmaker","name":"Linda Shoenmaker","living":null,"confidence":"family"},
-  {"id":"robert-mcfadden","name":"Robert McFadden","living":false,"confidence":"B"},
-  {"id":"annabelle-mcfadden","name":"Annabelle McFadden","birth":"1925-01-04","death":"2025-04-20","birthplace":"Seattle, Washington","deathplace":"Wenatchee, Washington","confidence":"B"},
-  {"id":"william-gromer","name":"William Gromer","living":false,"confidence":"B"},
-  {"id":"dorothy-gromer","name":"Dorothy Gromer","living":false,"confidence":"B","notes":["maiden surname unknown"]},
-  {"id":"james-moran-hickok-jr","name":"James Moran Hickok Jr.","birth":"1917","death":"1989","confidence":"B"},
-  {"id":"dorothy-porter","name":"Dorothy Porter","living":false,"confidence":"B"},
-  {"id":"james-moran-hickok-sr","name":"James Moran Hickok Sr.","birth":"1891","death":"1967","confidence":"C"},
-  {"id":"willard-richard-hickok","name":"Willard Richard Hickok","birth":"1852","death":"1924","confidence":"C"},
-  {"id":"alfred-francis-hickok","name":"Alfred Francis Hickok","birth":"c.1828/1829","death":"1882","confidence":"C"},
-  {"id":"david-hickok","name":"David Hickok","birth":"1806","death":"1883","confidence":"C"},
-  {"id":"gideon-hickok","name":"Gideon Hickok","birth":"1764","death":"1831","confidence":"C"},
-  {"id":"ambrose-hickock-1741","name":"Ambrose Hickock","birth":"1741","confidence":"C"},
-  {"id":"ambrose-hickock-1718","name":"Ambrose Hickock","birth":"1718","confidence":"C"},
-  {"id":"ebenezer-hickock","name":"Ebenezer Hickock","birth":"1692","confidence":"C"},
-  {"id":"samuel-hickock-1668","name":"Samuel Hickock","birth":"c.1668","death":"1713","confidence":"C"},
-  {"id":"sgt-samuel-hickock","name":"Sgt. Samuel Hickock","birth":"c.1643","death":"1695","confidence":"C"},
-  {"id":"william-hickocks","name":"William Hickocks","death":"c.1645","place":"Farmington, Connecticut","confidence":"C"},
-  {"id":"wild-bill-hickok","name":"James Butler \"Wild Bill\" Hickok","birth":"1837","death":"1876","direct_ancestor":false,"confidence":"historical"}
+  {
+    "id": "masen-gromer",
+    "name": "Masen Gromer",
+    "living": true,
+    "role": "research subject",
+    "confidence": "family"
+  },
+  {
+    "id": "mark-gromer-jr",
+    "name": "Mark Gromer Jr.",
+    "living": true,
+    "confidence": "family"
+  },
+  {
+    "id": "kirsten-davison",
+    "name": "Kirsten Davison",
+    "living": true,
+    "confidence": "family"
+  },
+  {
+    "id": "mark-gromer-sr",
+    "name": "Mark Gromer Sr.",
+    "living": true,
+    "confidence": "family"
+  },
+  {
+    "id": "anne-hickok",
+    "name": "Anne Hickok",
+    "living": true,
+    "notes": [
+      "Herrington is a married surname, not birth surname"
+    ],
+    "confidence": "family"
+  },
+  {
+    "id": "larry-davison",
+    "name": "Larry Davison",
+    "living": null,
+    "confidence": "family"
+  },
+  {
+    "id": "susan-mcfadden",
+    "name": "Susan \"Sue\" McFadden",
+    "living": true,
+    "confidence": "family"
+  },
+  {
+    "id": "john-henry-gromer",
+    "name": "John Henry Gromer",
+    "birth": "1938-03-30",
+    "death": "2005-08-23",
+    "birthplace": "St. Louis, Missouri",
+    "occupations": [
+      "U.S. Navy (20 years)",
+      "barber",
+      "Walt Disney World security",
+      "Walt Disney World hairstylist"
+    ],
+    "confidence": "B"
+  },
+  {
+    "id": "norma-gromer",
+    "name": "Norma Gromer",
+    "living": null,
+    "confidence": "family"
+  },
+  {
+    "id": "edwin-james-hickok",
+    "name": "Edwin James \"Buck\" Hickok Sr.",
+    "birth": "1937-05-13",
+    "death": "2019",
+    "occupations": [
+      "U.S. Navy (service period listed 1954-1976)",
+      "Hickok's Trucking lead"
+    ],
+    "confidence": "B"
+  },
+  {
+    "id": "linda-shoenmaker",
+    "name": "Linda Shoenmaker",
+    "living": null,
+    "confidence": "family"
+  },
+  {
+    "id": "robert-mcfadden",
+    "name": "Robert McFadden",
+    "living": false,
+    "occupations": [
+      "WWII Pacific aviation - exact branch/unit unresolved",
+      "orchardist"
+    ],
+    "confidence": "B"
+  },
+  {
+    "id": "annabelle-mcfadden",
+    "name": "Annabelle McFadden",
+    "birth": "1925-01-04",
+    "death": "2025-04-20",
+    "birthplace": "Seattle, Washington",
+    "deathplace": "Wenatchee, Washington",
+    "occupations": [
+      "orchardist"
+    ],
+    "education": [
+      "Roosevelt High School"
+    ],
+    "confidence": "B"
+  },
+  {
+    "id": "william-gromer",
+    "name": "William Gromer",
+    "living": false,
+    "confidence": "B"
+  },
+  {
+    "id": "dorothy-gromer",
+    "name": "Dorothy Gromer",
+    "living": false,
+    "confidence": "B",
+    "notes": [
+      "maiden surname unknown"
+    ]
+  },
+  {
+    "id": "james-moran-hickok-jr",
+    "name": "James Moran Hickok Jr.",
+    "birth": "1917",
+    "death": "1989",
+    "confidence": "B"
+  },
+  {
+    "id": "dorothy-porter",
+    "name": "Dorothy Porter",
+    "living": false,
+    "confidence": "B"
+  },
+  {
+    "id": "james-moran-hickok-sr",
+    "name": "James Moran Hickok Sr.",
+    "birth": "1891",
+    "death": "1967",
+    "confidence": "C"
+  },
+  {
+    "id": "willard-richard-hickok",
+    "name": "Willard Richard Hickok",
+    "birth": "1852",
+    "death": "1924",
+    "confidence": "C"
+  },
+  {
+    "id": "alfred-francis-hickok",
+    "name": "Alfred Francis Hickok",
+    "birth": "c.1828/1829",
+    "death": "1882",
+    "confidence": "C"
+  },
+  {
+    "id": "david-hickok",
+    "name": "David Hickok",
+    "birth": "1806",
+    "death": "1883",
+    "confidence": "C"
+  },
+  {
+    "id": "gideon-hickok",
+    "name": "Gideon Hickok",
+    "birth": "1764",
+    "death": "1831",
+    "confidence": "C"
+  },
+  {
+    "id": "ambrose-hickock-1741",
+    "name": "Ambrose Hickock",
+    "birth": "1741",
+    "confidence": "C"
+  },
+  {
+    "id": "ambrose-hickock-1718",
+    "name": "Ambrose Hickock",
+    "birth": "1718",
+    "confidence": "C"
+  },
+  {
+    "id": "ebenezer-hickock",
+    "name": "Ebenezer Hickock",
+    "birth": "1692",
+    "confidence": "C"
+  },
+  {
+    "id": "samuel-hickock-1668",
+    "name": "Samuel Hickock",
+    "birth": "c.1668",
+    "death": "1713",
+    "confidence": "C"
+  },
+  {
+    "id": "sgt-samuel-hickock",
+    "name": "Sgt. Samuel Hickock",
+    "birth": "c.1643",
+    "death": "1695",
+    "confidence": "C"
+  },
+  {
+    "id": "william-hickocks",
+    "name": "William Hickocks",
+    "death": "c.1645",
+    "place": "Farmington, Connecticut",
+    "confidence": "C"
+  },
+  {
+    "id": "wild-bill-hickok",
+    "name": "James Butler \"Wild Bill\" Hickok",
+    "birth": "1837",
+    "death": "1876",
+    "direct_ancestor": false,
+    "confidence": "historical"
+  },
+  {
+    "id": "delores-hickok-spencer",
+    "name": "Delores A. Hickok Spencer",
+    "birth": "1939-04-18",
+    "death": "2017-03-26",
+    "direct_ancestor": false,
+    "relation_note": "sister of Edwin James Hickok",
+    "occupations": [
+      "Coleco",
+      "Rotterdam Plastics",
+      "Trans World Entertainment"
+    ],
+    "confidence": "B"
+  },
+  {
+    "id": "richard-cornelius-hickok",
+    "name": "Richard \"Dick\" Cornelius Hickok",
+    "birth": "1933-11-28",
+    "death": "2015-04-18",
+    "direct_ancestor": false,
+    "relation_note": "brother of James Moran Hickok Jr.; uncle of Edwin James Hickok",
+    "occupations": [
+      "heavy equipment operator"
+    ],
+    "confidence": "B"
+  },
+  {
+    "id": "robert-a-mcfadden-jr",
+    "name": "Robert A. McFadden Jr.",
+    "direct_ancestor": false,
+    "relation_note": "probable son of Robert + Annabelle; identity with Wenatchee dentist still a lead",
+    "occupations": [
+      "DDS lead"
+    ],
+    "confidence": "D"
+  }
 ]

@@ -1,5 +1,21 @@
 # Research Log
 
+## 2026-09-20 — Machine-readable pedigree completeness pass
+
+A comparison between the prose research, `data/people.json`, `data/relationships.json`, and the reunion web app found two structural causes of the "missing connections" problem:
+
+1. `data/relationships.json` only represented parent → child links, so spouses, former spouses, siblings, social family and collateral relationships were invisible to software even when documented in prose.
+2. The older Hickok machine-readable pedigree often stored only the surname-line parent, even where the repository already had compiled evidence for the other parent.
+
+Changes in this pass:
+- added `data/connections.json` for typed non-parent connections
+- promoted the documented Annabelle McFadden ↔ Robert Dixon Handy sibling link into machine-readable data
+- encoded Larry Davison ↔ Sue McFadden, Sue ↔ George Spear, and George's social/non-biological grandfather role without contaminating the biological parent graph
+- added C-grade second-parent links for Elizabeth Murphy, Susan Laura Wait, Nancy [surname unknown], Betsey [surname unknown], Mary Dowd, Eunice Clark, Esther Hine, Elizabeth Plumb, Hannah Upson, and Elizabeth [surname unknown]
+- kept all compiled-genealogy additions explicitly at C grade rather than upgrading them to fact
+
+This materially widens the pedigree while preserving the distinction between family-confirmed, strong secondary, compiled, and hypothetical evidence.
+
 A chronological record of what was learned, corrected, rejected, and promoted.
 
 ## 2026-09-20 — Davison / Hipps breakthrough

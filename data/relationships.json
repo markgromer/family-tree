@@ -193,5 +193,55 @@
     "parent": "betty-louise-hipps",
     "child": "gary-edward-davison",
     "confidence": "D"
+  },
+  {
+    "parent": "elizabeth-murphy",
+    "child": "james-moran-hickok-jr",
+    "confidence": "C"
+  },
+  {
+    "parent": "susan-laura-wait",
+    "child": "willard-richard-hickok",
+    "confidence": "C"
+  },
+  {
+    "parent": "nancy-hickok-unknown",
+    "child": "alfred-francis-hickok",
+    "confidence": "C"
+  },
+  {
+    "parent": "betsey-hickok-unknown",
+    "child": "david-hickok",
+    "confidence": "C"
+  },
+  {
+    "parent": "mary-dowd",
+    "child": "gideon-hickok",
+    "confidence": "C"
+  },
+  {
+    "parent": "eunice-clark",
+    "child": "ambrose-hickock-1741",
+    "confidence": "C"
+  },
+  {
+    "parent": "esther-hine",
+    "child": "ambrose-hickock-1718",
+    "confidence": "C"
+  },
+  {
+    "parent": "elizabeth-plumb",
+    "child": "ebenezer-hickock",
+    "confidence": "C"
+  },
+  {
+    "parent": "hannah-upson",
+    "child": "samuel-hickock-1668",
+    "confidence": "C"
+  },
+  {
+    "parent": "elizabeth-hickocks-unknown",
+    "child": "sgt-samuel-hickock",
+    "confidence": "C"
   }
 ]

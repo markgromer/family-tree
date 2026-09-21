@@ -37,6 +37,38 @@ Evidence controls:
 - the ship-sinking story remains unresolved; no ship should be assigned to Edward without muster/service evidence.
 - a different Ohio Edward Davison killed aboard USS Intrepid in 1944 had wife Marie Maxine and is explicitly **not** this Edward.
 
+### Repository synchronization after Larry interview
+The new family structure was propagated across:
+- TREE.md
+- LIFE_DOSSIERS.md
+- branches/davison-mcfadden.md
+- data/people.json
+- data/relationships.json
+- OPEN_QUESTIONS.md
+- SOURCES.md
+- README.md
+
+Current machine-readable working links now include:
+- Edward H. Davison → Larry Davison
+- Betty Louise Hipps → Larry Davison
+- Walter M. Davison → Edward H. Davison
+- probable Julia Rothenberger → Edward H. Davison
+- Jackson Lee Hipps → Betty Louise Hipps
+- Jeanette Ovidia Johnson → Betty Louise Hipps
+- secondary collateral links from Walter + Julia to Madolyn Davison Goshia and Robert Davison
+
+The Robert Dixon Handy obituary connection was promoted from a vague Handy hypothesis to a **B-grade sibling relationship with Annabelle McFadden**. Their exact shared biological parents remain unresolved.
+
+### Wild Bill Davison collision
+A user-contributed genealogy page suggested Walter M. Davison may have been a sibling of jazz cornetist William Edward "Wild Bill" Davison of Defiance.
+
+This connection is **not accepted**:
+- reliable Wild Bill biographies identify his parents as Edward Davison + Anna Kreps Davison
+- the user-created genealogy data proposes a conflicting household
+- no primary record currently bridges Walter to Wild Bill
+
+Keep Wild Bill Davison as a D-grade lead/conflict only.
+
 ## 2026-09-20 — Repository completeness / life-dossier pass
 
 The project scope was expanded from lineage-only research to **life dossiers** for confirmed ancestors and useful collateral relatives.
@@ -137,3 +169,5 @@ The next unresolved bridge is **William Gromer → his parents**.
 - Attaching Masen to Missouri Gromer families solely because John was born in St. Louis
 - Treating every person named Gromer / Hickok in the same state as related without a documented bridge
 - Treating the Wenatchee dentist record for Robert A. McFadden Jr., DDS as evidence that Robert McFadden Sr. was a dentist
+- Treating the USS Intrepid casualty Edward Davison (wife Marie Maxine) as Larry's father
+- Attaching jazz cornetist William Edward "Wild Bill" Davison to Walter M. Davison without a documented parent bridge

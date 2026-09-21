@@ -19,9 +19,12 @@ This repository exists so the research does not depend on one chat, one family s
 - **Gromer** — paternal surname line
 - **Hickok** — paternal-grandmother line; includes a strong working connection to the colonial Hickok family associated with James Butler "Wild Bill" Hickok
 - **Shoenmaker** — Linda Shoenmaker's ancestry; spelling variants need investigation
-- **Davison** — maternal-grandfather line
+- **Davison** — maternal-grandfather line; now anchored through Edward H. Davison → Walter M. Davison
+- **Hipps** — Betty Louise Hipps line; working chain to Jackson Lee Hipps
+- **Rothenberger** — probable maternal line of Edward H. Davison through Julia Rothenberger; primary proof still needed
+- **Johnson** — working maternal line of Betty Hipps through Jeanette Ovidia Johnson; reported Swedish ancestry unresolved
 - **McFadden** — maternal-grandmother line
-- **Handy / related lines** — possible ancestry through Annabelle McFadden; requires validation before promotion to the main tree
+- **Handy / related lines** — Robert Dixon Handy is documented as Annabelle McFadden's brother; Annabelle's exact parents remain unresolved
 
 ## Evidence grades
 

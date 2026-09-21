@@ -165,25 +165,79 @@ Supports:
 ### David Hickok family group sheet
 https://www.fgs-project.com/newyork/groups/h/hickok-david-.htm
 
+Compiled research sheet; use at C grade pending inspection of the cited originals.
+
 Supports:
 - David Hickok
+- father Gideon Hickok and mother listed as **Betsey [surname unknown]**
+- wife listed as **Nancy [surname unknown]**
 - son Alfred Francis Hickok
-- father Gideon Hickok
-- cites county, census, military, cemetery sources
+- Alfred's spouse **Susan Laura Wait**
+- cites county, census, military, cemetery and surrogate-record sources
 
-### Connecticut genealogy — Gideon Hickok
+### Connecticut genealogy — Ambrose / Mary Dowd / Gideon
 https://aleph0.clarku.edu/~djoyce/gen/report/rr24/rr24_344.html
 
-Supports:
-- Gideon Hickok birth
-- parents Ambrose Hickok and Mary Dowd
-
-### WeRelate — Samuel Hickok
-https://www.werelate.org/wiki/Person%3ASamuel_Hickok_%281%29
+Compiled Connecticut genealogy; C grade until the cited vital records are inspected directly.
 
 Supports:
-- Samuel Hickok / Elizabeth Plumb family
-- colonial Connecticut vital-record references
+- Ambrose Hickock (1741) + Mary Dowd marriage
+- Gideon Hickock (1764) as their son
+- Mary Dowd's dates and parentage lead
+
+### Connecticut genealogy — Ambrose (1718) / Eunice Clark
+https://mathcs.clarku.edu/~djoyce/gen/report/rr21/rr21_130.html
+
+Supports at C grade:
+- Ambrose Hickock (1718), son of Ebenezer Hickock + Esther Hine
+- marriage to Eunice Clark
+- Ambrose Hickock (1741) as their son
+
+### Connecticut genealogy — Ebenezer Hickock / Esther Hine
+https://mathcs.clarku.edu/~djoyce/gen/report/rr15/rr15_384.html
+
+Supports at C grade:
+- Ebenezer Hickock + Esther Hine household
+- Ambrose Hickock (1718) as their son
+
+### WeRelate — Samuel Hickok / Elizabeth Plumb
+https://www.werelate.org/wiki/Person%3AElizabeth_Plumb_%286%29
+
+Derivative page that cites the Barbour Collection and Charles Nelson Hickok's 1938 genealogy.
+
+Supports at C grade:
+- Samuel Hickok + Elizabeth Plumb marriage
+- Elizabeth Plumb's dates
+- Ebenezer Hickok as a child of the couple
+
+### William Hickocks + Elizabeth [surname unknown]
+https://www.werelate.org/wiki/Person%3AWilliam_Hickocks_%282%29
+
+Derivative page quoting the 1938 Hickok genealogy.
+
+Supports at C grade:
+- William Hickocks + Elizabeth
+- sons Sgt. Samuel and Joseph
+- warns that a commonly repeated Stratford-upon-Avon baptism identity for William is not accepted by the cited genealogy
+
+### Sgt. Samuel Hickock + Hannah Upson
+https://mindrumfamilyhistory.com/getperson.php?personID=I13454&tree=mindrum
+
+Compiled genealogy citing Hickok/Upson and Fairfield references.
+
+Supports at C grade:
+- Sgt. Samuel as son of William + Elizabeth
+- Hannah Upson as spouse
+- Samuel (c.1668) among their children
+
+### Willard Richard Hickok cemetery memorial
+https://www.findagrave.com/memorial/107508884/willard_richard-hickok
+
+Compiled/cemetery lead.
+
+Supports at C grade:
+- Willard Richard Hickok
+- Alfred Francis Hickok + Susan Laura Wait as his parents
 
 ### Edwin Hickok military memory
 https://www.familysearch.org/en/memories/memory/158175804

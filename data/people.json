@@ -352,5 +352,108 @@
     "direct_ancestor": false,
     "relation_note": "probable son of Edward H. Davison and Betty Louise Hipps; earlier research lead awaiting source revalidation",
     "confidence": "D"
+  },
+  {
+    "id": "george-spear",
+    "name": "George Spear",
+    "living": null,
+    "direct_ancestor": false,
+    "relation_note": "later husband of Susan \"Sue\" McFadden; social/non-biological grandfather in Masen's family story",
+    "confidence": "family"
+  },
+  {
+    "id": "elizabeth-murphy",
+    "name": "Elizabeth Murphy",
+    "birth": "1898",
+    "death": "1974",
+    "confidence": "C",
+    "notes": [
+      "Working mother of James Moran Hickok Jr.; supported by FamilySearch household grouping and Richard C. Hickok's obituary naming James Moran Hickok Sr. and Elizabeth Murphy as his parents"
+    ]
+  },
+  {
+    "id": "susan-laura-wait",
+    "name": "Susan Laura Wait",
+    "living": false,
+    "confidence": "C",
+    "notes": [
+      "Working wife of Alfred Francis Hickok and mother of Willard Richard Hickok in compiled/cemetery sources"
+    ]
+  },
+  {
+    "id": "nancy-hickok-unknown",
+    "name": "Nancy (surname unknown)",
+    "birth": "c.1806",
+    "confidence": "C",
+    "notes": [
+      "Working wife of David Hickok and mother of Alfred Francis Hickok in New York family-group research; surname unresolved"
+    ]
+  },
+  {
+    "id": "betsey-hickok-unknown",
+    "name": "Betsey (surname unknown)",
+    "confidence": "C",
+    "notes": [
+      "Working mother of David Hickok in New York family-group research; surname unresolved"
+    ]
+  },
+  {
+    "id": "mary-dowd",
+    "name": "Mary Dowd",
+    "birth": "1743-08-17",
+    "death": "1793-03-17",
+    "confidence": "C",
+    "notes": [
+      "Wife of Ambrose Hickock (1741) and mother of Gideon Hickock (1764) in compiled Connecticut genealogy"
+    ]
+  },
+  {
+    "id": "eunice-clark",
+    "name": "Eunice Clark",
+    "birth": "1725-03-23",
+    "death": "1803-10-07",
+    "confidence": "C",
+    "notes": [
+      "Wife of Ambrose Hickock (1718) and mother of Ambrose Hickock (1741) in compiled Connecticut genealogy"
+    ]
+  },
+  {
+    "id": "esther-hine",
+    "name": "Esther Hine",
+    "birth": "1695-06-30",
+    "death": "before 1729-08",
+    "confidence": "C",
+    "notes": [
+      "First wife of Ebenezer Hickock and mother of Ambrose Hickock (1718) in compiled Connecticut genealogy"
+    ]
+  },
+  {
+    "id": "elizabeth-plumb",
+    "name": "Elizabeth Plumb",
+    "birth": "1669-11-01",
+    "death": "1749-10-17",
+    "confidence": "C",
+    "notes": [
+      "Wife of Samuel Hickock (c.1668-1713) and mother of Ebenezer Hickock; marriage/death are supported by Connecticut vital-record compilations"
+    ]
+  },
+  {
+    "id": "hannah-upson",
+    "name": "Hannah Upson",
+    "birth": "c.1648",
+    "death": "c.1705",
+    "confidence": "C",
+    "notes": [
+      "Wife of Sgt. Samuel Hickock and mother of Samuel Hickock (c.1668-1713) in published Hickok/Upson genealogies"
+    ]
+  },
+  {
+    "id": "elizabeth-hickocks-unknown",
+    "name": "Elizabeth (surname unknown)",
+    "death": "1655-08-03",
+    "confidence": "C",
+    "notes": [
+      "Wife of William Hickocks of Farmington and mother of Sgt. Samuel Hickock; surname is not established"
+    ]
   }
 ]

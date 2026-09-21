@@ -51,10 +51,15 @@ If deeper private records are collected later, they should live outside the publ
 - [Gromer Branch](branches/gromer.md)
 - [Davison / McFadden Branch](branches/davison-mcfadden.md)
 - [Shoenmaker Branch](branches/shoenmaker.md)
+- [Machine-readable people](data/people.json)
+- [Machine-readable parent/child links](data/relationships.json)
+- [Typed spouse/sibling/social/collateral connections](data/connections.json)
 
 ## Rule for future research
 
 Do not attach a person merely because the surname, location, or date appears to fit.
+
+The machine-readable graph is intentionally split: `data/relationships.json` is reserved for directional parent → child links; `data/connections.json` stores spouse, former-spouse, co-parent, sibling, social-family, and collateral-relative links so those relationships are not lost or misrepresented.
 
 For every parent-child jump, record:
 

@@ -343,5 +343,14 @@
     "direct_ancestor": false,
     "relation_note": "documented brother of Annabelle McFadden; exact shared biological parentage still unresolved",
     "confidence": "B"
+  },
+  {
+    "id": "gary-edward-davison",
+    "name": "Gary Edward Davison",
+    "birth": "1944-04-04",
+    "birthplace": "Chattanooga, Tennessee",
+    "direct_ancestor": false,
+    "relation_note": "probable son of Edward H. Davison and Betty Louise Hipps; earlier research lead awaiting source revalidation",
+    "confidence": "D"
   }
 ]

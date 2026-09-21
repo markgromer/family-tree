@@ -183,5 +183,15 @@
     "parent": "julia-rothenberger",
     "child": "robert-davison-collateral",
     "confidence": "C"
+  },
+  {
+    "parent": "edward-h-davison",
+    "child": "gary-edward-davison",
+    "confidence": "D"
+  },
+  {
+    "parent": "betty-louise-hipps",
+    "child": "gary-edward-davison",
+    "confidence": "D"
   }
 ]

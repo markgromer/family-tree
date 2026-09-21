@@ -77,6 +77,134 @@ Do not label someone "rich", "poor", "criminal", etc. from weak evidence. Record
 
 ---
 
+
+## Edward H. Davison — WWII Navy
+
+**Relationship to Masen:** maternal great-grandfather  
+**Evidence:** B for identity, father and wartime service summary; family oral history for ship-loss story
+
+### Known life
+- Son of **Walter M. Davison** of Defiance, Ohio.
+- Husband of **Betty Hipps**.
+- Entered the regular U.S. Navy in **1934**.
+- Period Defiance County WWII material identifies him as a **Chief Warrant Officer**.
+- Training/service summary includes Norfolk, Virginia and wartime service connected with **Midway, Guadalcanal, the Solomon Islands, Iwo Jima, Okinawa and Japan**.
+- Listed decorations include American Defense with Bronze Arrowhead, Asiatic-Pacific with **8 battle stars**, Victory ribbon and Good Conduct Medal.
+- Family oral history from Larry Davison says Edward was aboard a ship that sank/was lost and survived.
+
+### Evidence caution
+A different Ohio sailor named **Edward Davison** was killed aboard USS *Intrepid* in 1944 and had a different wife, Marie Maxine. That man is **not** Larry's father.
+
+The specific ship in Larry's family story is still unknown. Do not attach Edward to a vessel simply because it was sunk in a campaign where he served.
+
+### Research next
+- Full Navy Official Military Personnel File.
+- Muster rolls from enlistment in 1934 through discharge/retirement periods.
+- Identify every ship/unit assignment.
+- Locate the ship-loss episode and determine whether Edward was aboard at the time.
+- Full birth/death records.
+- Marriage record to Betty Hipps.
+- Census household with Walter M. Davison and Julia Rothenberger.
+
+---
+
+## Betty Louise Hipps
+
+**Relationship to Masen:** maternal great-grandmother  
+**Evidence:** family testimony for relationship; C compiled/indexed evidence for dates and parentage
+
+### Working identity
+- Born **1 Oct 1920**, Seattle, Washington.
+- Died **24 Apr 1988**.
+- Working parents: **Jackson Lee Hipps** and **Jeanette Ovidia "Jennie" Johnson**.
+- Family oral history supplies her father's fuller name as **Jackson Lee Jefferson Hipps**.
+
+### Research next
+- Original Washington birth record.
+- 1930/1940 census household.
+- Marriage record to Edward H. Davison.
+- Original records for Jackson and Jennie.
+- Determine where the reported Swedish ancestry enters the family.
+
+---
+
+## Walter M. Davison
+
+**Relationship to Masen:** maternal 2x-great-grandfather  
+**Evidence:** B for fatherhood via period WWII county record; dates currently from secondary indexes
+
+### Working identity
+- Associated with Defiance, Ohio.
+- Working dates: **13 May 1897 – 6 Aug 1974**.
+- Period WWII source explicitly names him as father of Edward H. Davison.
+- Secondary family-history material identifies wife **Julia Rothenberger** and children **Madolyn, Robert and Edward**.
+
+### Research next
+- Birth, marriage and death records.
+- Census households.
+- Parents and siblings.
+- Occupation, property, probate and economic profile.
+- Prove Julia Rothenberger with primary records.
+
+---
+
+## Jackson Lee Hipps
+
+**Relationship to Masen:** maternal 2x-great-grandfather  
+**Evidence:** C compiled/indexed evidence + family oral history
+
+### Working identity
+- Family oral history: **Jackson Lee Jefferson Hipps**.
+- Indexed working dates: **26 Nov 1879 – Nov 1970**.
+- Associated with Seattle, Washington.
+- Working spouse: **Jeanette Ovidia "Jennie" Johnson**.
+- Working daughter: **Betty Louise Hipps**.
+
+### Research next
+- Original birth/death/marriage records.
+- Record proving the full middle name **Jefferson**.
+- Parents and migration to Washington.
+- Occupation, property and newspapers.
+
+---
+
+## Jeanette Ovidia "Jennie" Johnson
+
+**Relationship to Masen:** maternal 2x-great-grandmother  
+**Evidence:** C compiled/indexed evidence
+
+### Working identity
+- Working spouse: **Jackson Lee Hipps**.
+- Working daughter: **Betty Louise Hipps**.
+- Larry reports Swedish ancestry somewhere in the family.
+
+### Evidence caution
+The surname **Johnson** alone is not evidence of Swedish ancestry.
+
+### Research next
+- Birthplace and dates.
+- Parents.
+- Census and marriage records.
+- Identify the actual Swedish immigrant ancestor, if the family tradition is correct.
+
+---
+
+## Robert Dixon Handy — collateral
+
+**Relationship:** documented brother of Annabelle McFadden; not a direct ancestor unless the shared parent line is separately proven  
+**Evidence:** B — obituary
+
+### Why he matters
+His obituary explicitly names **Annabelle McFadden as his sister**, making the Handy connection a documented family relationship. The exact biological parentage of Annabelle is still unresolved because the sibling network may include half- or step-siblings.
+
+### Research next
+- Annabelle's birth and marriage records.
+- Robert's birth record/census household.
+- Determine whether Robert and Annabelle shared both biological parents.
+- Test the working Gerald/Gail Russell Handy + Anne/Anna Virginia Crandell parent hypothesis.
+
+---
+
 ## Robert McFadden
 
 **Relationship to Masen:** maternal great-grandfather  

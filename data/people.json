@@ -261,9 +261,10 @@
       "U.S. Navy - Chief Warrant Officer"
     ],
     "notes": [
-      "Period Defiance County WWII book names father Walter M. Davison and wife Betty Hipps",
-      "Entered regular Navy in 1934; served Midway, Guadalcanal, Solomons, Iwo Jima, Okinawa and Japan",
-      "Family oral history says he survived a ship sinking; ship unresolved"
+      "Son of Walter M. Davison per period Defiance County WWII source",
+      "Husband of Betty Hipps",
+      "Entered regular Navy in 1934; service summary includes Midway, Guadalcanal, Solomons, Iwo Jima, Okinawa and Japan",
+      "Family oral history says he survived a ship sinking/loss; vessel unresolved"
     ],
     "confidence": "B"
   },
@@ -273,7 +274,11 @@
     "birth": "1920-10-01",
     "death": "1988-04-24",
     "birthplace": "Seattle, Washington",
-    "confidence": "C"
+    "confidence": "C",
+    "notes": [
+      "Mother of Larry Davison by family testimony",
+      "Working parents Jackson Lee Hipps and Jeanette Ovidia Johnson"
+    ]
   },
   {
     "id": "walter-m-davison",
@@ -281,14 +286,17 @@
     "birth": "1897-05-13",
     "death": "1974-08-06",
     "place": "Defiance, Ohio",
-    "confidence": "B"
+    "confidence": "B",
+    "notes": [
+      "Father of Edward H. Davison per period Defiance County WWII source"
+    ]
   },
   {
     "id": "julia-rothenberger",
     "name": "Julia Rothenberger",
     "living": false,
     "notes": [
-      "Probable mother of Edward H. Davison; currently supported by secondary family-history source"
+      "Probable wife of Walter M. Davison and mother of Madolyn, Robert and Edward; currently secondary-source supported"
     ],
     "confidence": "C"
   },
@@ -308,8 +316,32 @@
     "name": "Jeanette Ovidia \"Jennie\" Johnson",
     "living": false,
     "notes": [
-      "Working identification as Betty Louise Hipps's mother; Swedish ancestry reported somewhere in family but unresolved"
+      "Working wife of Jackson Lee Hipps and mother of Betty Louise Hipps",
+      "Swedish ancestry reported in family oral history but exact ancestor unresolved"
     ],
     "confidence": "C"
+  },
+  {
+    "id": "madolyn-davison-goshia",
+    "name": "Madolyn Davison Goshia",
+    "birth": "1918-02-19",
+    "death": "1964",
+    "direct_ancestor": false,
+    "relation_note": "probable sister of Edward H. Davison; daughter of Walter M. Davison and Julia Rothenberger in secondary family-history source",
+    "confidence": "C"
+  },
+  {
+    "id": "robert-davison-collateral",
+    "name": "Robert Davison",
+    "direct_ancestor": false,
+    "relation_note": "probable brother of Edward H. Davison; son of Walter M. Davison and Julia Rothenberger in secondary family-history source",
+    "confidence": "C"
+  },
+  {
+    "id": "robert-dixon-handy",
+    "name": "Robert Dixon Handy",
+    "direct_ancestor": false,
+    "relation_note": "documented brother of Annabelle McFadden; exact shared biological parentage still unresolved",
+    "confidence": "B"
   }
 ]

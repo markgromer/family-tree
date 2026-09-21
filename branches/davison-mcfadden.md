@@ -30,6 +30,16 @@ Family oral history adds:
 
 The specific ship has **not** been identified. Do not attach Edward to a sunk vessel until muster rolls/service records establish the assignment.
 
+### Gary Edward Davison — collateral lead
+Earlier research surfaced a probable son of **Edward H. Davison + Betty Louise Hipps**:
+- **Gary Edward Davison**
+- reported birth **4 Apr 1944**
+- reported birthplace **Chattanooga, Tennessee**
+
+This aligns with the family's Chattanooga geography, but the underlying source has not yet been re-established in the source registry.
+
+**Status: D — preserve as a research lead, not a proven child relationship.**
+
 ### Walter M. Davison
 A period Defiance County veterans book directly identifies Walter as Edward H. Davison's father.
 

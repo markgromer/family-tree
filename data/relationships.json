@@ -163,5 +163,25 @@
     "parent": "jeanette-ovidia-johnson",
     "child": "betty-louise-hipps",
     "confidence": "C"
+  },
+  {
+    "parent": "walter-m-davison",
+    "child": "madolyn-davison-goshia",
+    "confidence": "C"
+  },
+  {
+    "parent": "julia-rothenberger",
+    "child": "madolyn-davison-goshia",
+    "confidence": "C"
+  },
+  {
+    "parent": "walter-m-davison",
+    "child": "robert-davison-collateral",
+    "confidence": "C"
+  },
+  {
+    "parent": "julia-rothenberger",
+    "child": "robert-davison-collateral",
+    "confidence": "C"
   }
 ]

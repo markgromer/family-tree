@@ -59,6 +59,9 @@ Current machine-readable working links now include:
 
 The Robert Dixon Handy obituary connection was promoted from a vague Handy hypothesis to a **B-grade sibling relationship with Annabelle McFadden**. Their exact shared biological parents remain unresolved.
 
+### Gary Edward Davison collateral lead
+Earlier research surfaced **Gary Edward Davison**, reportedly born 4 Apr 1944 in Chattanooga, as a probable child of Edward H. Davison + Betty Louise Hipps. The underlying source could not be cleanly re-established during the repository synchronization, so this connection is preserved at **D grade** rather than discarded or promoted.
+
 ### Wild Bill Davison collision
 A user-contributed genealogy page suggested Walter M. Davison may have been a sibling of jazz cornetist William Edward "Wild Bill" Davison of Defiance.
 

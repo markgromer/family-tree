@@ -37,8 +37,8 @@
 ### Larry Davison
 - Maternal grandfather
 - Former husband of Susan "Sue" McFadden
+- Son of **Edward H. Davison** and **Betty Louise Hipps**
 - **Status:** family-confirmed
-- Parents: **unknown**
 
 ### Susan "Sue" McFadden
 - Maternal grandmother
@@ -82,6 +82,24 @@
 - Parents: **unknown**
 - Spelling variants to investigate: Shoenmaker, Schoenmaker, Schoonmaker, Shoemaker
 
+### Edward H. Davison
+- Maternal great-grandfather
+- Husband of **Betty Louise Hipps**
+- Son of **Walter M. Davison**
+- Period Defiance County WWII record identifies him as a **Chief Warrant Officer, U.S. Navy**
+- Entered the regular Navy in **1934**
+- Service listed at **Midway, Guadalcanal, the Solomons, Iwo Jima, Okinawa and Japan**
+- Listed awards include Asiatic-Pacific ribbon with **8 battle stars**, Good Conduct Medal, Victory ribbon, and American Defense award with Bronze Arrowhead
+- Family oral history says he survived the loss/sinking of a ship; ship still unidentified
+- **Status:** B for identity/father/service summary; ship story remains unproven
+
+### Betty Louise Hipps
+- Maternal great-grandmother
+- Wife of **Edward H. Davison**
+- Working indexed identity: born **1 Oct 1920**, Seattle, Washington; died **24 Apr 1988**
+- Working parentage: **Jackson Lee Hipps** + **Jeanette Ovidia "Jennie" Johnson**
+- **Status:** family-confirmed as Larry's mother; C for dates/parentage pending original records
+
 ### Robert McFadden
 - Maternal great-grandfather
 - Husband of Annabelle
@@ -97,6 +115,30 @@
 - Children included Marilyn, Susan "Sue", and Robert Jr.
 - **Status:** B — strong secondary evidence
 - Maiden name / biological parents still require direct proof
+
+
+## Davison / Hipps ancestral chain — working reconstruction
+
+1. Masen Gromer
+2. Kirsten Davison
+3. Larry Davison
+4. Edward H. Davison + Betty Louise Hipps
+5. Edward's line: **Walter M. Davison** + probable **Julia Rothenberger**
+6. Betty's line: **Jackson Lee Hipps** + **Jeanette Ovidia "Jennie" Johnson**
+
+Additional known connections:
+- Secondary family-history material identifies **Madolyn Davison Goshia**, **Robert Davison**, and **Edward Davison** as children of Walter M. Davison + Julia Rothenberger.
+- Family oral history gives Jackson's fuller name as **Jackson Lee Jefferson Hipps**; "Jefferson" is not yet independently record-proven.
+- Larry reports **Swedish ancestry** somewhere in this branch; the exact immigrant/ancestor remains unresolved.
+- A proposed connection between Walter M. Davison and jazz cornetist **William Edward "Wild Bill" Davison** is **not established** and must not be merged into the family tree without a documented parent bridge.
+
+**Status:** Edward → Walter is B; Julia / Jackson / Jennie are C working links pending original records.
+
+## Handy collateral connection
+
+**Robert Dixon Handy** is documented in his obituary as the brother of **Annabelle McFadden**. The sibling connection is now treated as real evidence, not merely a surname hypothesis.
+
+What remains unresolved is whether they shared both biological parents and exactly how the blended Handy household was structured. Therefore the parents **Gerald/Gail Russell Handy** and **Anne/Anna Virginia Crandell** remain hypotheses until direct records bridge Annabelle to them.
 
 ## Hickok ancestral chain — working reconstruction
 
@@ -137,6 +179,10 @@ If the colonial chain above is correct, the calculated relationship is:
 - Dorothy Gromer → maiden name and parents
 - Norma Gromer → maiden name and parents
 - Linda Shoenmaker → parents and correct ancestral spelling
-- Larry Davison → parents
+- Edward H. Davison → complete Navy ship/muster history and the ship-loss story
+- Walter M. Davison → parents
+- Julia Rothenberger → primary proof as Edward's mother and her parents
+- Jackson Lee Hipps → parents / full middle name
+- Jeanette Ovidia Johnson → parents / exact Swedish connection
 - Robert McFadden → parents
-- Annabelle → maiden name and biological parents
+- Annabelle → maiden name and biological parents; Robert Dixon Handy sibling link is documented

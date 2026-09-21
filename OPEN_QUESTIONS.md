@@ -78,6 +78,15 @@ Need:
 - Jennie's parents
 - determine which ancestor was Swedish; do **not** infer ethnicity from the surname Johnson alone
 
+### Resolve the Wild Bill Davison conflict
+A user-contributed genealogy source proposes a relationship between Walter M. Davison and jazz cornetist William Edward "Wild Bill" Davison of Defiance, but reliable Wild Bill biography material gives a conflicting parent set.
+
+Need:
+- Walter M. Davison birth certificate / census household
+- Walter's parents' marriage and census records
+- Wild Bill's birth record / childhood census
+- only connect the households if the same parent(s) are demonstrated
+
 ### Robert McFadden's full identity and parents
 Need:
 - full legal name
@@ -88,11 +97,12 @@ Need:
 - orchard/property records at Lake Chelan
 
 ### Annabelle McFadden's maiden name and parents
-A likely connection to Robert Dixon Handy has been found through an obituary naming Annabelle McFadden as his sister.
+Robert Dixon Handy's obituary explicitly names **Annabelle McFadden as his sister**, so the Handy sibling connection is now documented at B-grade.
 
 However:
-- sibling does not by itself prove identical biological parents
-- a compiled genealogy points toward Gerald/Gail Handy and Anne/Anna Virginia Crandell, but the child lists conflict
+- a sibling relationship does not by itself prove identical biological parents
+- the household may include half- or step-siblings
+- compiled genealogy points toward Gerald/Gail Handy and Anne/Anna Virginia Crandell, but the child lists conflict
 
 Need:
 - Annabelle birth record

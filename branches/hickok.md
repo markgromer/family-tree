@@ -65,19 +65,21 @@ The line from James Moran Hickok Jr. backward into colonial Connecticut currentl
 
 This is acceptable as a **working map**, but the goal is to replace each bridge with direct evidence.
 
-### Current sequence
-- James Moran Hickok Jr. (1917–1989)
-- James Moran Hickok Sr. (1891–1967)
-- Willard Richard Hickok (1852–1924)
-- Alfred Francis Hickok (c.1828/29–1882)
-- David Hickok (1806–1883)
-- Gideon Hickok (1764–1831)
-- Ambrose Hickock (b. 1741)
-- Ambrose Hickock (b. 1718)
-- Ebenezer Hickock (b. 1692)
-- Samuel Hickock (c.1668–1713)
-- Sgt. Samuel Hickock (c.1643–1695)
+### Current sequence, with second-parent leads now encoded
+- James Moran Hickok Jr. (1917–1989) ← James Moran Hickok Sr. + **Elizabeth Murphy** (C for this child link)
+- James Moran Hickok Sr. (1891–1967) ← mother unresolved here
+- Willard Richard Hickok (1852–1924) ← Alfred Francis Hickok + **Susan Laura Wait** (C)
+- Alfred Francis Hickok (c.1828/29–1882) ← David Hickok + **Nancy [surname unknown]** (C)
+- David Hickok (1806–1883) ← Gideon Hickok + **Betsey [surname unknown]** (C)
+- Gideon Hickok (1764–1831) ← Ambrose Hickock (1741) + **Mary Dowd** (C)
+- Ambrose Hickock (b. 1741) ← Ambrose Hickock (1718) + **Eunice Clark** (C)
+- Ambrose Hickock (b. 1718) ← Ebenezer Hickock + **Esther Hine** (C)
+- Ebenezer Hickock (b. 1692) ← Samuel Hickock + **Elizabeth Plumb** (C)
+- Samuel Hickock (c.1668–1713) ← Sgt. Samuel Hickock + **Hannah Upson** (C)
+- Sgt. Samuel Hickock (c.1643–1695) ← William Hickocks + **Elizabeth [surname unknown]** (C)
 - William Hickocks (d. c.1645)
+
+These second-parent links substantially widen the pedigree, but they remain compiled-genealogy working links until upgraded from original records.
 
 ## Wild Bill relationship
 

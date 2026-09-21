@@ -1,0 +1,214 @@
+[
+  {
+    "id": "mark-jr-kirsten-coparent",
+    "person_a": "mark-gromer-jr",
+    "person_b": "kirsten-davison",
+    "type": "co_parent",
+    "label": "parents of Masen Gromer",
+    "confidence": "family",
+    "biological": null
+  },
+  {
+    "id": "mark-sr-anne-coparent",
+    "person_a": "mark-gromer-sr",
+    "person_b": "anne-hickok",
+    "type": "co_parent",
+    "label": "parents of Mark Gromer Jr.",
+    "confidence": "family",
+    "biological": null
+  },
+  {
+    "id": "larry-sue-former-spouse",
+    "person_a": "larry-davison",
+    "person_b": "susan-mcfadden",
+    "type": "former_spouse",
+    "label": "former spouses; parents of Kirsten Davison",
+    "confidence": "family",
+    "biological": false
+  },
+  {
+    "id": "sue-george-spouse",
+    "person_a": "susan-mcfadden",
+    "person_b": "george-spear",
+    "type": "spouse",
+    "label": "later spouses",
+    "confidence": "B",
+    "biological": false,
+    "source_note": "Annabelle McFadden obituary names Susan and George Spear together"
+  },
+  {
+    "id": "george-masen-social-grandfather",
+    "person_a": "george-spear",
+    "person_b": "masen-gromer",
+    "type": "social_grandparent",
+    "label": "social/non-biological grandfather",
+    "confidence": "family",
+    "biological": false
+  },
+  {
+    "id": "john-norma-spouse",
+    "person_a": "john-henry-gromer",
+    "person_b": "norma-gromer",
+    "type": "spouse",
+    "label": "spouses",
+    "confidence": "B",
+    "biological": false,
+    "source_note": "John Henry Gromer obituary"
+  },
+  {
+    "id": "edwin-linda-coparent",
+    "person_a": "edwin-james-hickok",
+    "person_b": "linda-shoenmaker",
+    "type": "co_parent",
+    "label": "parents of Anne Hickok",
+    "confidence": "family",
+    "biological": null
+  },
+  {
+    "id": "robert-annabelle-spouse",
+    "person_a": "robert-mcfadden",
+    "person_b": "annabelle-mcfadden",
+    "type": "spouse",
+    "label": "spouses",
+    "confidence": "B",
+    "biological": false,
+    "source_note": "Annabelle McFadden obituary"
+  },
+  {
+    "id": "annabelle-robert-handy-sibling",
+    "person_a": "annabelle-mcfadden",
+    "person_b": "robert-dixon-handy",
+    "type": "sibling",
+    "label": "documented siblings; exact shared biological parentage unresolved",
+    "confidence": "B",
+    "biological": null,
+    "source_note": "Robert Dixon Handy obituary names Annabelle McFadden as his sister"
+  },
+  {
+    "id": "james-jr-dorothy-coparent",
+    "person_a": "james-moran-hickok-jr",
+    "person_b": "dorothy-porter",
+    "type": "co_parent",
+    "label": "parents of Edwin James Hickok",
+    "confidence": "B",
+    "biological": null
+  },
+  {
+    "id": "james-sr-elizabeth-spouse",
+    "person_a": "james-moran-hickok-sr",
+    "person_b": "elizabeth-murphy",
+    "type": "spouse",
+    "label": "spouses / parents of James Moran Hickok Jr.",
+    "confidence": "C",
+    "biological": false
+  },
+  {
+    "id": "alfred-susan-spouse",
+    "person_a": "alfred-francis-hickok",
+    "person_b": "susan-laura-wait",
+    "type": "spouse",
+    "label": "spouses / parents of Willard Richard Hickok",
+    "confidence": "C",
+    "biological": false
+  },
+  {
+    "id": "david-nancy-spouse",
+    "person_a": "david-hickok",
+    "person_b": "nancy-hickok-unknown",
+    "type": "spouse",
+    "label": "working spouses / parents of Alfred Francis Hickok",
+    "confidence": "C",
+    "biological": false
+  },
+  {
+    "id": "gideon-betsey-coparent",
+    "person_a": "gideon-hickok",
+    "person_b": "betsey-hickok-unknown",
+    "type": "co_parent",
+    "label": "working parents of David Hickok",
+    "confidence": "C",
+    "biological": null
+  },
+  {
+    "id": "ambrose1741-mary-spouse",
+    "person_a": "ambrose-hickock-1741",
+    "person_b": "mary-dowd",
+    "type": "spouse",
+    "label": "spouses / parents of Gideon Hickok",
+    "confidence": "C",
+    "biological": false
+  },
+  {
+    "id": "ambrose1718-eunice-spouse",
+    "person_a": "ambrose-hickock-1718",
+    "person_b": "eunice-clark",
+    "type": "spouse",
+    "label": "spouses / parents of Ambrose Hickock (1741)",
+    "confidence": "C",
+    "biological": false
+  },
+  {
+    "id": "ebenezer-esther-spouse",
+    "person_a": "ebenezer-hickock",
+    "person_b": "esther-hine",
+    "type": "spouse",
+    "label": "first spouses / parents of Ambrose Hickock (1718)",
+    "confidence": "C",
+    "biological": false
+  },
+  {
+    "id": "samuel1668-elizabeth-spouse",
+    "person_a": "samuel-hickock-1668",
+    "person_b": "elizabeth-plumb",
+    "type": "spouse",
+    "label": "spouses / parents of Ebenezer Hickock",
+    "confidence": "C",
+    "biological": false
+  },
+  {
+    "id": "sgt-samuel-hannah-spouse",
+    "person_a": "sgt-samuel-hickock",
+    "person_b": "hannah-upson",
+    "type": "spouse",
+    "label": "spouses / parents of Samuel Hickock (c.1668)",
+    "confidence": "C",
+    "biological": false
+  },
+  {
+    "id": "william-elizabeth-spouse",
+    "person_a": "william-hickocks",
+    "person_b": "elizabeth-hickocks-unknown",
+    "type": "spouse",
+    "label": "spouses / parents of Sgt. Samuel Hickock",
+    "confidence": "C",
+    "biological": false
+  },
+  {
+    "id": "edward-betty-spouse",
+    "person_a": "edward-h-davison",
+    "person_b": "betty-louise-hipps",
+    "type": "spouse",
+    "label": "spouses / parents of Larry Davison",
+    "confidence": "B",
+    "biological": false
+  },
+  {
+    "id": "walter-julia-spouse",
+    "person_a": "walter-m-davison",
+    "person_b": "julia-rothenberger",
+    "type": "spouse",
+    "label": "probable spouses / parents of Edward H. Davison",
+    "confidence": "C",
+    "biological": false
+  },
+  {
+    "id": "masen-wild-bill-hickok-collateral",
+    "person_a": "masen-gromer",
+    "person_b": "wild-bill-hickok",
+    "type": "collateral_relative",
+    "label": "working estimate: 6th cousins 8x removed",
+    "confidence": "C",
+    "biological": null,
+    "notes": "Do not present as fully proven until each bridge in the compiled Hickok chain is independently sourced."
+  }
+]

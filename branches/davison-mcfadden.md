@@ -48,6 +48,19 @@ A secondary family-history page identifies **Julia (Rothenberger) Davison** as W
 
 This is a strong lead but not yet a primary-record proof of Edward's mother.
 
+### Known collateral children of Walter + Julia — secondary source
+A user-contributed family-history page identifies:
+- **Madolyn (Davison) Goshia** (born 19 Feb 1918; died 1964)
+- **Robert Davison**
+- **Edward Davison**
+
+These are useful collateral-research targets, but the sibling set should be confirmed from census/vital records before being treated as fully proven.
+
+### Wild Bill Davison warning
+A user-created genealogy page also proposes an older Davison household that includes Walter M. Davison and jazz cornetist **William Edward "Wild Bill" Davison** as siblings. Independent biographical material for the musician gives parent information that conflicts with that online tree.
+
+**Status: D / unresolved conflict. Do not merge Wild Bill Davison into Masen's family without a direct parent bridge.**
+
 ## Hipps branch
 
 ### Betty Louise Hipps
@@ -121,11 +134,13 @@ This is a strong lead for Annabelle and Robert's son **Robert Jr.**
 
 It is **not** evidence that Robert McFadden Sr. was a dentist.
 
-## Handy hypothesis
+## Handy collateral connection
 
-Robert Dixon Handy's obituary identifies **Annabelle McFadden as his sister**.
+Robert Dixon Handy's obituary explicitly identifies **Annabelle McFadden as his sister**.
 
-This creates a serious lead toward a Handy family.
+The **sibling relationship itself is documented** and should be treated as a real collateral-family connection.
+
+What is *not* yet proven is whether Robert and Annabelle shared both biological parents or came from a blended/half-sibling household.
 
 Compiled genealogy previously located:
 - Gerald/Gail Russell Handy
@@ -135,9 +150,11 @@ Compiled genealogy previously located:
 However, the compiled child list did not cleanly include Annabelle, and Robert's obituary also referenced siblings that may reflect a blended family.
 
 Therefore:
-**Do not attach Gerald/Gail Handy as Annabelle's father yet.**
+**Do not attach Gerald/Gail Handy or Anne/Anna Virginia Crandell as Annabelle's parents yet.**
 
-Evidence level: **D/C boundary — promising but unresolved.**
+Evidence levels:
+- Annabelle ↔ Robert Dixon Handy sibling relationship: **B**
+- Gerald/Gail Handy + Anne/Anna Virginia Crandell as Annabelle's parents: **D/C boundary — unresolved**
 
 ## Life-dossier targets
 

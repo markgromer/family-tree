@@ -142,26 +142,26 @@ What remains unresolved is whether they shared both biological parents and exact
 
 ## Hickok ancestral chain — working reconstruction
 
-The following chain is currently the strongest reconstruction from Edwin backward. The recent generations are better supported than the colonial portion.
+The following chain is currently the strongest reconstruction from Edwin backward. Earlier versions of this repository mostly stored the surname-line father at each generation; the machine-readable pedigree now also includes the second parent where the current evidence supports one.
 
 1. Masen Gromer
 2. Mark Gromer Jr.
 3. Anne Hickok
-4. Edwin James Hickok Sr. (1937–2019)
-5. James Moran Hickok Jr. (1917–1989)
-6. James Moran Hickok Sr. (1891–1967)
-7. Willard Richard Hickok (1852–1924)
-8. Alfred Francis Hickok (c.1828/29–1882)
-9. David Hickok (1806–1883)
-10. Gideon Hickok (1764–1831)
-11. Ambrose Hickock (b. 1741)
-12. Ambrose Hickock (b. 1718)
-13. Ebenezer Hickock (b. 1692)
-14. Samuel Hickock (c.1668–1713)
-15. Sgt. Samuel Hickock (c.1643–1695)
+4. Edwin James Hickok Sr. (1937–2019) — parents James Moran Hickok Jr. + Dorothy Porter
+5. James Moran Hickok Jr. (1917–1989) — working parents James Moran Hickok Sr. + **Elizabeth Murphy**
+6. James Moran Hickok Sr. (1891–1967) — mother still unresolved in this repository
+7. Willard Richard Hickok (1852–1924) — working parents Alfred Francis Hickok + **Susan Laura Wait**
+8. Alfred Francis Hickok (c.1828/29–1882) — working parents David Hickok + **Nancy [surname unknown]**
+9. David Hickok (1806–1883) — working parents Gideon Hickok + **Betsey [surname unknown]**
+10. Gideon Hickok (1764–1831) — working parents Ambrose Hickock (1741) + **Mary Dowd**
+11. Ambrose Hickock (b. 1741) — working parents Ambrose Hickock (1718) + **Eunice Clark**
+12. Ambrose Hickock (b. 1718) — working parents Ebenezer Hickock + **Esther Hine**
+13. Ebenezer Hickock (b. 1692) — working parents Samuel Hickock + **Elizabeth Plumb**
+14. Samuel Hickock (c.1668–1713) — working parents Sgt. Samuel Hickock + **Hannah Upson**
+15. Sgt. Samuel Hickock (c.1643–1695) — working parents William Hickocks + **Elizabeth [surname unknown]**
 16. William Hickocks (d. c.1645), early Farmington, Connecticut settler
 
-**Status:** mixed B/C. Do not treat the entire chain as equally proven. See [Hickok Branch](branches/hickok.md).
+**Status:** mixed B/C. The newly added second-parent links are mostly C-grade compiled-genealogy relationships and should be upgraded with original records. Do not treat the entire chain as equally proven. See [Hickok Branch](branches/hickok.md).
 
 ## Wild Bill Hickok relationship — working conclusion
 

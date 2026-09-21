@@ -23,7 +23,7 @@ For any new parent-child relationship:
 - state what the source actually proves
 - assign an evidence grade
 - note conflicts
-- update the machine-readable relationship data
+- update the machine-readable relationship data (`data/relationships.json` for parent → child; `data/connections.json` for spouse/sibling/social/collateral links)
 - update the relevant branch research file
 - add an entry to RESEARCH_LOG.md
 
@@ -44,6 +44,13 @@ For occupations, military, business, property, legal history, wealth/class, hobb
 - C — compiled genealogy
 - D — hypothesis/lead
 - F — disproved/rejected
+
+## Machine-readable graph rule
+
+- `data/relationships.json` is directional and reserved for biological/adoptive parent → child claims.
+- `data/connections.json` stores non-parent relationships such as spouse, former spouse, co-parent, sibling, social grandparent and collateral-relative links.
+- Never encode a social or marital relationship as a biological parent edge just to make an app draw a connection.
+- A person may exist in `people.json` without being attached to the direct pedigree if the relationship is collateral or unresolved.
 
 ## Promotion rule
 

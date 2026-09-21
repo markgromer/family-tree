@@ -54,6 +54,31 @@ Compiled/indexed lead:
 
 Use to target original birth, marriage and census records; do not treat the compiled tree alone as final proof.
 
+### WWII casualty list — wrong Edward Davison
+Naval-History.net U.S. Navy casualties by name  
+https://www.naval-history.net/WW2UScasaaDB-USNBPbyNameD.htm
+
+Useful exclusion evidence:
+- lists an Edward Davison, STM1, USS Intrepid, killed 29 Oct 1944
+- this casualty is **not** Larry Davison's father because the Ohio next-of-kin listing names wife **Marie Maxine Davison**, while Larry's father is independently tied to **Betty Hipps**
+
+Keep this exclusion in the source registry so the same-name casualty is not accidentally merged later.
+
+### Wild Bill Davison — conflict check
+City of Defiance history  
+https://visitdefianceohio.com/explore/history/
+
+Encyclopedia.com biography  
+https://www.encyclopedia.com/education/news-wires-white-papers-and-books/davison-wild-bill
+
+Supports:
+- William Edward "Wild Bill" Davison was born in Defiance in 1906 and became a major jazz cornetist
+- biographical source identifies his parents as **Edward Davison** and **Anna Kreps Davison**
+
+A user-contributed genealogy page has separately suggested Walter M. Davison and Wild Bill belonged to the same sibling household, but its parent data conflicts with this biography.
+
+**Status: D / conflict. Do not connect Wild Bill Davison to Masen without original records proving a shared parent.**
+
 ### USS Barnes context
 Naval History and Heritage Command  
 https://www.history.navy.mil/our-collections/photography/numerical-list-of-images/nhhc-series/nh-series/NH-97000/NH-97124.html
